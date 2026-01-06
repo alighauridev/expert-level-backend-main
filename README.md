@@ -590,8 +590,5 @@ ISC
 
 ## 👤 Author
 
-talhaghauri
+alighauri
 
----
-
-**Happy Coding! 🚀**
